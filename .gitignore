@@ -1,0 +1,4 @@
+infras-1/.terraform*
+infras-2/.terraform*
+remote-stores/.terraform*
+remote-stores/terraform*
